@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">week1</string>
+    <string name="places_to_visit">Places to visit</string>
+    <string name="restaurants">Restaurants</string>
+    <string name="night_life">Night Life</string>
+    <string name="extra">Extra</string>
+    <string name="final_button_message">Final</string>
+</resources>
